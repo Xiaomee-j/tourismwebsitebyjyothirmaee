@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+body{
+background-color:#EE56FF;
+}
+#my DIV{
+height:300px;
+background-color:#FFFFFF;
+}
+#my Table{
+width:100px;
+table-layout:auto;
+}
+</style>
+</head>
+<body>
+<h1>The table-layout property</h1>
+<div id="my DIV">
+<table id="myTable" border="1" cellpadding="3">
+<tr>
+<td>Cyber</td>
+<td>Security</td>
+<td>Data</td>
+<td>Science</td>
+</tr>
+<tr>
+<td>Cyber</td>
+<td>Security</td>
+<td>Data</td>
+<td>Science</td>
+</tr>
+<tr>
+<td>Cyber</td>
+<td>Security</td>
+<td>Data</td>
+<td>Science</td>
+</tr>
+<tr>
+<td>Cyber</td>
+<td>Security</td>
+<td>Data</td>
+<td>Science</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
